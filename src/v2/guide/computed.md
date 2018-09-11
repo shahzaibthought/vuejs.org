@@ -6,7 +6,7 @@ order: 5
 
 ## Computed Properties
 
-In-template expressions are very convenient, but they are meant for simple operations. Putting too much logic in your templates can make them bloated and hard to maintain. For example:
+In-template, expressions are very convenient, but they are meant for simple operations. Putting too much logic in your templates can make them bloated and hard to maintain. For example:
 
 ``` html
 <div id="example">
